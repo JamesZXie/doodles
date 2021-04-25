@@ -1,0 +1,19 @@
+{
+  "name": "doodles",
+  "version": "1.0.0",
+  "description": "A collection of p5.js sketches and other digital doodles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesZXie/doodles.git"
+  },
+  "author": "mistty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesZXie/doodles/issues"
+  },
+  "homepage": "https://github.com/JamesZXie/doodles#readme"
+}
